@@ -16,3 +16,17 @@ It demonstrates various UI layouts, Programming logic, and responsive styling—
 - Offer expandable framework for future variants (e.g., financial, conversion, graphing calculators)
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Calculator_1.png" width="28%" />
+  <img src="./Output Screenshots/Calculator_2.png" width="28%" />
+</p>
+
+<p float="left">
+  <img src="./Output Screenshots/Calculator_3.png" width="28%" />
+  <img src="./Output Screenshots/Calculator_4.png" width="28%"/>
+</p>
+
+---
